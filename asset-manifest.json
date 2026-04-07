@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/berry-react-dashboard/static/css/main.cec7cca0.css",
-    "main.js": "/berry-react-dashboard/static/js/main.855c1a07.js",
-    "static/media/slick.svg": "/berry-react-dashboard/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/berry-react-dashboard/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/berry-react-dashboard/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/berry-react-dashboard/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/berry-react-dashboard/index.html",
-    "main.cec7cca0.css.map": "/berry-react-dashboard/static/css/main.cec7cca0.css.map",
-    "main.855c1a07.js.map": "/berry-react-dashboard/static/js/main.855c1a07.js.map"
+    "main.css": "/react-berry-dashboard/static/css/main.c6b13ea7.css",
+    "main.js": "/react-berry-dashboard/static/js/main.942d44be.js",
+    "static/media/slick.svg": "/react-berry-dashboard/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-berry-dashboard/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-berry-dashboard/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-berry-dashboard/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-berry-dashboard/index.html",
+    "main.c6b13ea7.css.map": "/react-berry-dashboard/static/css/main.c6b13ea7.css.map",
+    "main.942d44be.js.map": "/react-berry-dashboard/static/js/main.942d44be.js.map"
   },
   "entrypoints": [
-    "static/css/main.cec7cca0.css",
-    "static/js/main.855c1a07.js"
+    "static/css/main.c6b13ea7.css",
+    "static/js/main.942d44be.js"
   ]
 }
